@@ -215,7 +215,7 @@ plt.xlabel=("odds Ratio")
 ## Project Interpretation
 This project evaluated student satisfaction with campus facilities at Mount Kenya University, Thika, focusing on libraries, lecture halls, and laboratories.
 
-The results showed that 74.3% of students were satisfied with the university’s facilities — a strong indication of overall positive perceptions. However, satisfaction varied across facilities: lecture halls performed best, while laboratories received lower ratings, highlighting areas that need attention.
+The results showed that 74.3% of students were satisfied with the university’s facilities - a strong indication of overall positive perceptions. However, satisfaction varied across facilities: lecture halls performed best, while laboratories received lower ratings, highlighting areas that need attention.
 
 The logistic regression model performed well (Accuracy = 81%) and revealed that facility quality mattered more than adequacy. In particular, laboratory quality (OR = 2.22) and library quality (OR = 2.01) were the strongest predictors of satisfaction — meaning students who rated these highly were over twice as likely to be satisfied.
 
