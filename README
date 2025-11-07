@@ -221,4 +221,4 @@ The logistic regression model performed well (Accuracy = 81%) and revealed that 
 
 Interestingly, satisfaction also varied by program level, with certificate students reporting lower satisfaction compared to degree students.
 
-In summary, the findings show that improving the quality of learning spaces — especially labs and libraries can significantly enhance student satisfaction. The project demonstrates how logistic regression can turn survey data into clear, actionable insights to guide campus development and improve the overall student experience.
+The findings show that improving the quality of learning spaces — especially labs and libraries can significantly enhance student satisfaction. The project demonstrates how logistic regression can turn survey data into clear, actionable insights to guide campus development and improve the overall student experience.
