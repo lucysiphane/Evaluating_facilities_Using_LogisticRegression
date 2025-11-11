@@ -222,3 +222,34 @@ The logistic regression model performed well (Accuracy = 81%) and revealed that 
 Interestingly, satisfaction also varied by program level, with certificate students reporting lower satisfaction compared to degree students.
 
 The findings show that improving the quality of learning spaces — especially labs and libraries can significantly enhance student satisfaction. The project demonstrates how logistic regression can turn survey data into clear, actionable insights to guide campus development and improve the overall student experience.
+
+
+
+# Student Satisfaction Dashboard
+
+This dashboard provides an overview of student satisfaction metrics across different program levels and facility usage.
+
+## Dashboard Overview
+
+![Distribution of Program Levels](distribution%20of%20program%20levels.png)
+![Correlation Heatmap](correlation%20heatmap.png)
+![Odds Ratio Analysis](horizontal%20bargraph%20of%20odds%20ratio.png)
+![Overall Satisfaction](piei%20chart.png)
+![Frequency of Use](distribution%20of%20frequency%20of%20use.png)
+
+## Chart Descriptions
+
+- **Program Level Distribution**: Shows the frequency distribution across different academic programs (Degree, Diploma, Certificate, Post Graduate)
+- **Correlation Heatmap**: Displays correlations between various facility quality metrics (Library, Lab, Lecture Hall adequacy and quality)
+- **Odds Ratio Analysis**: Horizontal bar graph showing the odds ratios for different facility quality factors
+- **Overall Satisfaction**: Pie chart displaying the distribution of overall satisfaction levels (74.3% satisfied vs 25.7% not satisfied)
+- **Frequency of Use**: Bar chart showing how frequently facilities are used by students (Daily, Weekly, Monthly, Rarely)
+
+## Key Insights
+
+- Majority of students (74.3%) report overall satisfaction
+- Laboratory and library quality show the highest odds ratios in satisfaction analysis
+- Degree programs appear to be the most common program level
+- Daily usage appears to be the most frequent pattern of facility utilization
+
+
