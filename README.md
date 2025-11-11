@@ -252,4 +252,32 @@ This dashboard provides an overview of student satisfaction metrics across diffe
 - Degree programs appear to be the most common program level
 - Daily usage appears to be the most frequent pattern of facility utilization
 
-....
+
+# Student Satisfaction Dashboard
+
+## Overview
+This dashboard provides insights into student satisfaction, program distribution, and facility usage patterns.
+
+## Dashboard
+
+### Program Level Distribution
+![Distribution of Program Levels](distribution%20of%20program%20levels.png)
+
+### Satisfaction Distribution
+![Overall Satisfaction Distribution](piei%20chart.png)
+
+### Facility Usage Frequency
+![Distribution of Frequency of Use](distribution%20of%20frequency%20of%20use.png)
+
+### Correlation Analysis
+![Correlation Heatmap](correlation%20heatmap.png)
+
+### Key Factors Impact (Odds Ratio)
+![Horizontal Bargraph of Odds Ratio](horizontal%20bargraph%20of%20odds%20ratio.png)
+
+## Summary
+The dashboard shows:
+- **Program Distribution**: Majority of students are in Degree programs
+- **Satisfaction**: 74.3% of students report overall satisfaction
+- **Facility Usage**: Daily usage is most common pattern
+- **Key Factors**: Lab quality and library quality show highest impact on satisfaction (odds ratio > 1.0)
